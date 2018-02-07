@@ -1,4 +1,4 @@
-# objc4 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/oneofai/objc4.svg)](https://github.com/oneofai/objc4)
+# objc4 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/oneofai/objc4.svg)](https://github.com/oneofai/objc4)
 
 [![platform-macOS](https://img.shields.io/badge/platform-macOS-orange.svg)](https://github.com/oneofai/objc4) [![Build Status](https://travis-ci.org/oneofai/objc4.svg?branch=master)](https://travis-ci.org/oneofai/objc4) [![GitHub language count](https://img.shields.io/github/languages/count/oneofai/objc4.svg)]() [![GitHub issues](https://img.shields.io/github/issues/oneofai/objc4.svg)](https://github.com/oneofai/objc4/issues)
 
