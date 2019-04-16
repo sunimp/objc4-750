@@ -118,6 +118,7 @@
 		83F4B52915E843B100E0926F /* NSObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 83F4B52715E843B100E0926F /* NSObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		83F550E0155E030800E95D3B /* objc-cache-old.mm in Sources */ = {isa = PBXBuildFile; fileRef = 83F550DF155E030800E95D3B /* objc-cache-old.mm */; };
 		87BB4EA70EC39854005D08E1 /* objc-probes.d in Sources */ = {isa = PBXBuildFile; fileRef = 87BB4E900EC39633005D08E1 /* objc-probes.d */; };
+		922076592265BF9600836AB8 /* libobjc.A.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D2AAC0630554660B00DB518D /* libobjc.A.dylib */; };
 		92B6C1FC2265AE3800E2EC02 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 92B6C1FB2265AE3800E2EC02 /* main.m */; };
 		9672F7EE14D5F488007CEC96 /* NSObject.mm in Sources */ = {isa = PBXBuildFile; fileRef = 9672F7ED14D5F488007CEC96 /* NSObject.mm */; };
 		E8923DA5116AB2820071B552 /* objc-block-trampolines.mm in Sources */ = {isa = PBXBuildFile; fileRef = E8923DA0116AB2820071B552 /* objc-block-trampolines.mm */; };
@@ -271,6 +272,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				922076592265BF9600836AB8 /* libobjc.A.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
